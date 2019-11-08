@@ -1,0 +1,11 @@
+{
+  "name": "jumia-bot",
+  "version": "1.0.0",
+  "description": "Get the best deal in any Jumia.com category or subcategory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abodunrin Afeez Lekan",
+  "license": "ISC"
+}
